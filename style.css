@@ -1,0 +1,15 @@
+#ook-code {
+    background-color: black;
+    color: white;
+    height: 80%;
+    width: 80%;
+}
+
+body {
+    background-color: grey;
+    color: skyblue;
+}
+
+#title {
+    color: darkblue;
+};
